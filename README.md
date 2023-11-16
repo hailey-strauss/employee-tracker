@@ -40,10 +40,12 @@ Here are a couple of screenshots of what the Readme Generator looks like.
 
 ## Video
 
-https://github.com/hailey-strauss/logo-generator/assets/126025611/f4c35b15-43d1-4b0a-99a6-940010216447
+
+https://github.com/hailey-strauss/employee-tracker/assets/126025611/4f34c430-d961-47d9-a48a-a579ba8f8618
+
 
 ## Github
 
 <a name="Github"></a>
 
-https://github.com/hailey-strauss/logo-generator
+https://github.com/hailey-strauss/employee-tracker
